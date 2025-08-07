@@ -1,4 +1,4 @@
-#👋 Olá! Sou Paula Canuto.
+# 👋 Olá! Sou Paula Canuto.
 
 💡 Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA e apaixonada pelo mundo da tecnologia (desde que me lembro!).
 
