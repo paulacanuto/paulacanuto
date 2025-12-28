@@ -1,12 +1,7 @@
 # 👋 Olá! Sou Paula Canuto.
 
-💡 Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA e apaixonada pelo mundo da tecnologia (desde que me lembro!).
+💡 Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA e apaixonada pelo mundo da tecnologia.
 
-🚀 Estou em aprendizagem constante — entre linhas de código, bugs e muitos cafés, vou evoluindo e a divertir-me com o processo.
-
-✨ Gosto de transformar ideias em soluções e estou à procura de uma primeira experiência no mundo real da tecnologia (estágios são muito bem-vindos 👀).
-
-📁 Este GitHub é um bocadinho da minha jornada. E o melhor ainda está para vir!
 
 <div>
 <a href="https://github.com/paulacanuto">
